@@ -1,7 +1,10 @@
-# apnscp
-apnscp Issues Tracker
+# ApisCP
+ApisCP Issues Tracker
 
-apnscp source is available via [GitLab](https://gitlab.com/apisnetworks/apnscp) under a limited license.
+ApisCP source is available via [GitLab](https://gitlab.com/apisnetworks/apnscp) under a limited license.
+
+## Documentation
+Documentation is available via [docs.apiscp.com](https://docs.apiscp.com).
 
 ## Keeping current
-Milestones are announced via [hq.apnscp.com](https://hq.apnscp.com) as well as [r/apnscp](https://reddit.com/r/apnscp).
+Milestones are announced via [hq.apiscp.com](https://hq.apiscp.com) as well as [r/apiscp](https://reddit.com/r/apiscp) or [@apisnetworks](https://twitter.com/apisnetworks).
