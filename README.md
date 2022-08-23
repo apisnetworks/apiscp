@@ -1,7 +1,9 @@
 # ApisCP
-ApisCP Issues Tracker
 
 ApisCP source is available via [GitLab](https://gitlab.com/apisnetworks/apnscp) under a limited license.
+
+## Feedback
+Submit feedback requests (features, bugs) through [feedback.apiscp.com](https://feedback.apiscp.com). Usage through here is deprecated.
 
 ## Documentation
 Documentation is available via [docs.apiscp.com](https://docs.apiscp.com).
